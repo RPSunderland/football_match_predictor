@@ -1,0 +1,21 @@
+Season: Rok końcowy sezonu rozgrywek.
+Date: Data meczu.
+HomeTeam: Drużyna gospodarzy.
+AwayTeam: Drużyna gości.
+StandingDiff: Różnica w tabeli między drużyną gospodarzy, a gościem z poprzedniego sezonu.
+HomeWins: Liczba zwycięstw drużyny gospodarzy w ostatnich pięciu meczach u siebie.
+AwayWins: Liczba zwycięstw drużyny gości w ostatnich pięciu meczach na wyjeździe.
+HomeDraws: Liczba remisów drużyny gospodarzy w ostatnich pięciu meczach u siebie.
+AwayDraws: Liczba remisów drużyny gości w ostatnich pięciu meczach na wyjeździe.
+HomeHalfTimeWins: Liczba zwycięstw drużyny gospodarzy do przerwy w ostatnich pięciu meczach u siebie.
+AwayHalfTimeWins: Liczba zwycięstw drużyny gości do przerwy w ostatnich pięciu meczach na wyjeździe.
+HomeHalfTimeDraws: Liczba remisów drużyny gospodarzy do przerwy w ostatnich pięciu meczach u siebie.
+AwayHalfTimeDraws: Liczba remisów drużyny gości do przerwy w ostatnich pięciu meczach na wyjeździe.
+HomeAvgGoals: Średnia liczba goli zdobywanych przez drużynę gospodarzy w ostatnich pięciu meczach u siebie.
+AwayAvgGoals: Średnia liczba goli zdobywanych przez drużynę gości w ostatnich pięciu meczach na wyjeździe.
+HomeAvgHalfTimeGoals: Średnia liczba goli zdobywanych przez drużynę gospodarzy do przerwy w ostatnich pięciu meczach u siebie.
+AwayAvgHalfTimeGoals: Średnia liczba goli zdobywanych przez drużynę gości do przerwy w ostatnich pięciu meczach na wyjeździe.
+HomeAvgShots: Średnia liczba strzałów oddanych przez drużynę gospodarzy w ostatnich pięciu meczach u siebie.
+AwayAvgShots: Średnia liczba strzałów oddanych przez drużynę gości w ostatnich pięciu meczach na wyjeździe.
+HomeAvgShotsOnTarget: Średnia liczba celnych strzałów oddanych przez drużynę gospodarzy w ostatnich pięciu meczach u siebie.
+AwayAvgShotsOnTarget: Średnia liczba celnych strzałów oddanych przez drużynę gości w ostatnich pięciu meczach na wyjeździe.

@@ -1,7 +1,6 @@
 import pandas as pd
 
 def get_last_matches(team: str, home: bool, matches: pd.DataFrame, date: pd.Timestamp, amount: int) -> pd.DataFrame:
-    #to-do ostatnie 5 meczow powinno byc max z poprzedniego sezonu
     if home:
         return matches[(matches['HomeTeam'] == team) & (matches['Date'] < date)].tail(amount)
     else:
