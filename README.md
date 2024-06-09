@@ -27,8 +27,8 @@ W pierwszej kolejności zbadano podstawowe dane, takie jak:
 
 Następnie wykonano analizę statystyczną, aby zbadać, które czynniki mają największy wpływ na wynik:
 
-![alt text](images\corr_ha.png)
-![alt text](images\corr_d.png)
+![alt text](images//corr_ha.png)
+![alt text](images//corr_d.png)
 
 Jak widać, największy wpływ na wynik ma różnica punktowa. Wykazano również bardzo małą korelację cech dla remisu.
 
@@ -61,13 +61,13 @@ Na ich podstawie stworzono model podejmujący decyzję na podstawie sumy prawdop
 ## Testowanie modelu
 Dla danych testowych uzyskano następującą macierz konfuzji:
 
-![alt text](images\cm.png)
+![alt text](images//cm.png)
 
 Model ma problem z przewidywaniem remisów, co jest związane z tym, że zazwyczaj szacowane prawdopodobieństwo uzyskania remisu jest pomiędzy prawdopodobieństwem wygranej gospodarzy lub gości. Jest to również powód współczynnika accuracy na poziomie ~52%, który mimo wszystko jest wyższy niż losowe wybieranie wyników (~33%).
 
 Ciekawiej prezentuje się porównanie średnich prawdopodobieństw wyników zwracanych przez model do procentowej ilości rzeczywistych rezultatów:
 
-![alt text](images\results.png)
+![alt text](images//results.png)
 
 Wykres pokazuje dużą zgodność, co wskazuje na poprawność szacowanych prawdopodobieństw.
 ## Uruchomienie projektu
